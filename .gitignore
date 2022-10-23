@@ -3,5 +3,7 @@ features.txt
 /database/firebase/credentials/*
 /lib/google/credentials/*
 
-*/.DS_Store
-*/__pycache__
+**/.DS_Store
+
+__pycache__/
+*.py[cod]
