@@ -1,0 +1,4 @@
+features.txt
+
+/database/firebase/credentials/*
+/lib/google/credentials/*

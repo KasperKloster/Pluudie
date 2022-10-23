@@ -1,0 +1,682 @@
+{
+    "0": {
+        "name": "Chili Con Carne",
+        "link": "",
+        "ingredients": [
+            {
+                "amount": 2,
+                "measurement": "stk",
+                "name": "l\u00f8g"
+            }
+        ]
+    },
+    "1": {
+        "name": "Chili Sin Carne",
+        "link": "",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 2
+            },
+            {
+                "name": "peas",
+                "amount": 2
+            }
+        ]
+    },
+    "2": {
+        "name": "Spaghetti Bolognese",
+        "link": "",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 3
+            },
+            {
+                "name": "peas",
+                "amount": 3
+            }
+        ]
+    },
+    "3": {
+        "name": "Kartoffel Og Brocolli Suppe",
+        "link": "",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 4
+            },
+            {
+                "name": "peas",
+                "amount": 4
+            }
+        ]
+    },
+    "4": {
+        "name": "Chicken Penang",
+        "link": "https://www.valdemarsro.dk/panang-karry-med-kylling/",
+        "ingredients": [
+            {
+                "amount": 2,
+                "measurement": "stk",
+                "name": "l\u00f8g"
+            },
+            {
+                "amount": 4,
+                "measurement": "fed",
+                "name": "hvidl\u00f8g"
+            },
+            {
+                "amount": 300,
+                "measurement": "g",
+                "name": "kyllingefilet"
+            },
+            {
+                "amount": 20,
+                "measurement": "g",
+                "name": "ingef\u00e6r"
+            },
+            {
+                "amount": 2,
+                "measurement": "spsk",
+                "name": "panang paste"
+            },
+            {
+                "amount": 3,
+                "name": "gulerod"
+            },
+            {
+                "amount": 200,
+                "measurement": "g",
+                "name": "broccoli"
+            },
+            {
+                "amount": 100,
+                "measurement": "g",
+                "name": "edamameb\u00f8nner"
+            },
+            {
+                "amount": 1,
+                "measurement": "d\u00e5se",
+                "name": "kokosm\u00e6lk"
+            },
+            {
+                "amount": 2,
+                "name": "gul peberfrugt"
+            },
+            {
+                "amount": 1,
+                "measurement": "spsk",
+                "name": "peanutbutter"
+            },
+            {
+                "amount": 1,
+                "measurement": "tsk",
+                "name": "kokossukker"
+            },
+            {
+                "amount": 1,
+                "measurement": "spsk",
+                "name": "soja"
+            },
+            {
+                "amount": 1,
+                "measurement": "stk",
+                "name": "lime"
+            },
+            {
+                "amount": 1,
+                "measurement": "spsk",
+                "name": "olivenolie"
+            },
+            {
+                "amount": 3,
+                "measurement": "dl",
+                "name": "ris"
+            },
+            {
+                "amount": 1,
+                "measurement": "dl",
+                "name": "saltede peanuts"
+            },
+            {
+                "amount": 1,
+                "measurement": "h\u00e5ndfuld",
+                "name": "frisk koriander"
+            }
+        ]
+    },
+    "5": {
+        "name": "Stegt R\u00f8dsp\u00e6tte Med Persillesauce",
+        "link": "https://www.valdemarsro.dk/stegt-roedspaette/",
+        "ingredients": [
+            {
+                "amount": 4,
+                "measurement": "stk",
+                "name": "r\u00f8dsp\u00e6tte"
+            },
+            {
+                "amount": 1,
+                "measurement": "stk",
+                "name": "\u00e6g"
+            },
+            {
+                "amount": 2,
+                "measurement": "dl",
+                "name": "rugmel"
+            },
+            {
+                "amount": 2,
+                "measurement": "spsk",
+                "name": "sm\u00f8r"
+            },
+            {
+                "amount": 2,
+                "measurement": "spsk",
+                "name": "hvedemel"
+            },
+            {
+                "amount": 5,
+                "measurement": "dl",
+                "name": "m\u00e6lk"
+            },
+            {
+                "amount": 0.5,
+                "measurement": "50",
+                "name": "\u00f8ko citron"
+            },
+            {
+                "amount": 2,
+                "measurement": "h\u00e5ndfulde",
+                "name": "persille"
+            },
+            {
+                "amount": 0,
+                "measurement": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "measurement": "",
+                "name": "peber"
+            },
+            {
+                "amount": 1,
+                "measurement": "kg",
+                "name": "kartoffel"
+            },
+            {
+                "amount": "",
+                "measurement": "",
+                "name": "vand"
+            }
+        ]
+    },
+    "6": {
+        "name": "Kylling Kiev",
+        "link": "https://www.valdemarsro.dk/kylling-kiev/",
+        "ingredients": [
+            {
+                "amount": 4,
+                "measurement": "stk",
+                "name": "kyllingebryst"
+            },
+            {
+                "amount": 75,
+                "measurement": "g",
+                "name": "sm\u00f8r"
+            },
+            {
+                "amount": 1,
+                "measurement": "spsk",
+                "name": "frisk basilikum"
+            },
+            {
+                "amount": 1,
+                "measurement": "spsk",
+                "name": "frisk estragon"
+            },
+            {
+                "amount": 1,
+                "measurement": "fed",
+                "name": "hvidl\u00f8g"
+            },
+            {
+                "amount": 2,
+                "measurement": "spsk",
+                "name": "hvedemel"
+            },
+            {
+                "amount": 1,
+                "measurement": "stk",
+                "name": "\u00e6g"
+            },
+            {
+                "amount": 1,
+                "measurement": "dl",
+                "name": "rasp"
+            },
+            {
+                "amount": 2,
+                "measurement": "spsk",
+                "name": "pankorasp"
+            },
+            {
+                "amount": 0,
+                "measurement": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "measurement": " ",
+                "name": "peber"
+            }
+        ]
+    },
+    "7": {
+        "name": "Pasta Aglio E Olio",
+        "link": "https://www.valdemarsro.dk/pasta-aglio-e-olio/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "8": {
+        "name": "Vegetar Panang Karry Med Kik\u00e6rter Og Gr\u00f8ntsager",
+        "link": "https://www.valdemarsro.dk/vegetar-panang-karry/",
+        "ingredients": [
+            {
+                "name": "monkey",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "9": {
+        "name": "Pasta Med Rejer Og Hvidl\u00f8g",
+        "link": "https://www.valdemarsro.dk/pasta-med-rejer-og-hvidloeg/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "10": {
+        "name": "Porret\u00e6rte",
+        "link": "https://www.valdemarsro.dk/porretaerte/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "11": {
+        "name": "Gr\u00f8ntsagswok Med Cashew Og Kokosnudler",
+        "link": "https://www.valdemarsro.dk/groentsagswok/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "12": {
+        "name": "Teriyaki Kylling Med Ris Og Gr\u00f8ntsage",
+        "link": "https://www.valdemarsro.dk/teriyaki-kylling/",
+        "ingredients": [
+            {
+                "name": "kylling",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "13": {
+        "name": "Pasta Arrabiata",
+        "link": "https://www.valdemarsro.dk/pasta-arrabiata/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "14": {
+        "name": "Vegetar Bolognese",
+        "link": "https://www.valdemarsro.dk/vegetar-bolognese/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "15": {
+        "name": "Saftige Kyllingedeller I Spidsk\u00e5lswraps",
+        "link": "https://www.valdemarsro.dk/kyllingedeller-spidskaalswraps/",
+        "ingredients": [
+            {
+                "name": "beef",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "16": {
+        "name": "Pasta Med Svampe",
+        "link": "https://www.valdemarsro.dk/pasta-med-svampe/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "17": {
+        "name": "\u00c6rtesuppe",
+        "link": "https://www.valdemarsro.dk/aertesuppe/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "18": {
+        "name": "Fiskefrikadeller Med Remoulade Og R\u00e5kostsalat",
+        "link": "https://www.valdemarsro.dk/fiskefrikadeller/",
+        "ingredients": [
+            {
+                "name": "pineapple",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "19": {
+        "name": "Risotto Med Svampe",
+        "link": "https://www.valdemarsro.dk/risotto-med-svampe/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "20": {
+        "name": "Hjemmelavede Burgere",
+        "link": "https://www.valdemarsro.dk/hjemmelavede-burgere/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "21": {
+        "name": "Lasagne",
+        "link": "https://www.valdemarsro.dk/lasagne/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "22": {
+        "name": "Laks I Ovn",
+        "link": "https://www.arla.dk/opskrifter/laks-i-ovn/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "23": {
+        "name": "\u00c6ggekage",
+        "link": "https://www.arla.dk/opskrifter/aggekage/",
+        "ingredients": [
+            {
+                "name": "kylling",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "24": {
+        "name": "Tortellini Med Bacon Og Svampe",
+        "link": "https://madenimitliv.dk/2018/11/tortellini-med-bacon-og-svampe/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "25": {
+        "name": "Pastasalat Med Avocadocreme",
+        "link": "https://madenimitliv.dk/2017/08/pastasalat-avocadocreme/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "26": {
+        "name": "Pasta I Fad Med Kylling Og Broccoli",
+        "link": "https://madenimitliv.dk/2016/10/pasta-fad-kylling-broccoli/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "27": {
+        "name": "Spinatpandekager Med Skinke Og Ost",
+        "link": "https://madenimitliv.dk/2014/04/spinatpandekager-med-skinke-og-ost-2/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "28": {
+        "name": "Broccolit\u00e6rte Med Bacon",
+        "link": "https://madenimitliv.dk/2013/10/den-nemmeste-broccolitaerte-med-bacon/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "29": {
+        "name": "Cremet Kartoffelfad Med Ost Og For\u00e5rsl\u00f8g",
+        "link": "https://madenimitliv.dk/2016/05/cremet-kartoffelfad-ost-foraarsloeg/",
+        "ingredients": [
+            {
+                "name": "cheese",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "30": {
+        "name": "Spinatlasagne Med Bechamel",
+        "link": "https://madenimitliv.dk/2016/06/spinatlasagne-bechamelsauce/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "31": {
+        "name": "Dhal Med Linser, Kartofler Og Blomk\u00e5l",
+        "link": "https://madenimitliv.dk/2016/10/dhal-linser-kartofler-blomkaal/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "32": {
+        "name": "Kylling Med Timian Og Citron I Stegeso",
+        "link": "https://madenimitliv.dk/2017/03/kylling-timian-citron-stegeso/",
+        "ingredients": [
+            {
+                "name": "potatos",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "33": {
+        "name": "Tortellini I Fad Med Broccoli",
+        "link": "https://madenimitliv.dk/2017/09/tortellini-fad-broccoli-mornaysauce/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "34": {
+        "name": "Spansk Tortilla Med Kartofler",
+        "link": "https://madenimitliv.dk/2018/06/spansk-tortilla-med-kartofler/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 500
+            }
+        ]
+    },
+    "35": {
+        "name": "Kylling Med Cashew",
+        "link": "https://madenimitliv.dk/2022/09/kylling-cashew/",
+        "ingredients": [
+            {
+                "name": "chickenbreast",
+                "amount": 1000
+            },
+            {
+                "name": "peas",
+                "amount": 9000
+            }
+        ]
+    }
+}
