@@ -1,0 +1,34 @@
+{
+  "mg": {
+    "name": "milligram",
+    "abbr": "mg",
+
+    "dk": [
+      {
+        "name": "milligram",
+        "abbr": "mg"
+      }
+    ]
+  },
+  "g": {
+    "name": "gram",
+    "abbr": "g",
+    "dk": [
+      {
+        "name": "gram",
+        "abbr": "g"
+      }
+    ]
+  },
+  "kg": {
+    "name": "kilo",
+    "abbr": "kg", 
+
+    "dk": [
+      {
+        "name": "kilo",
+        "abbr": "kg"
+      }
+    ]
+  }
+}

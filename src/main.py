@@ -4,7 +4,7 @@ from lib.Recipe import Recipe
 from lib.google.sheets import GoogleSheets
 
 class Main:
-  def __init__(self) -> None:     
+  def __init__(self) -> None:         
     recipeFilePath = self.recipesData()    
     self.firebase(recipeFilePath)
     lists = self.selectRecipes()
@@ -20,11 +20,9 @@ class Main:
     firebase.setRecipes(recipeFilePath)
   
   def selectRecipes(self) -> list[list[dict]]:
-    recipes = Recipe()
-    csv = Csv()
+    recipes = Recipe()    
     weekRecipes = recipes.getRandom()
-    shoppingList = recipes.createShoppinglist(weekRecipes)
-    # csv.saveWeekPlan(weekRecipes)
+    shoppingList = recipes.createShoppinglist(weekRecipes)    
     return [weekRecipes, shoppingList]
   
   def saveInGoogleDrive(self, lists):

@@ -3,7 +3,7 @@ import gspread, os
 class GoogleSheets:
   def __init__(self, lists : list[list[dict]]) -> None:    
     # connect to service account
-    serviceAccount = gspread.service_account(filename = os.getcwd() + '/lib/google/credentials/service_account.json')
+    serviceAccount = gspread.service_account(filename = os.getcwd() + '/src/lib/google/credentials/service_account.json')
     # Connect to sheet
     self.sheet = serviceAccount.open("WeekPlan")
     # Save weekplan

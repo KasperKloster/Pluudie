@@ -7,7 +7,7 @@ from firebase_admin import db
 class Firebase:
   def __init__(self) -> None:    
     databaseUrl = 'https://pluudie-default-rtdb.europe-west1.firebasedatabase.app/'
-    cred = credentials.Certificate(os.getcwd() + "/database/firebase/credentials/serviceAccountKey.json")
+    cred = credentials.Certificate(os.getcwd() + "/src/database/firebase/credentials/serviceAccountKey.json")
     firebase_admin.initialize_app(cred, {
       'databaseURL': databaseUrl
     })

@@ -2,8 +2,8 @@ import os, json
 import pandas as pd
 
 class Csv:   
-  def writeJsonRecipes(self) -> str:    
-    filepath = os.getcwd() + '/files/recipes.csv'    
+  def writeJsonRecipes(self) -> str:        
+    filepath = os.getcwd() + '/src/files/recipes.csv'    
     df = pd.read_csv(filepath, sep=';')
     # Set empty values (NaN)    
     df = df.fillna("")
@@ -19,7 +19,7 @@ class Csv:
     # Cast to JSON
     recipes = json.dumps(recipes, indent=4)
     # Save JSON file    
-    filepath = os.getcwd() + "/database/data/recipes.json"
+    filepath = os.getcwd() + "/src/database/data/recipes.json"
     with open(filepath, "w") as outfile:
       outfile.write(recipes) 
     

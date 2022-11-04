@@ -5,7 +5,7 @@
         "ingredients": [
             {
                 "amount": 2,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "l\u00f8g"
             }
         ]
@@ -26,15 +26,72 @@
     },
     "2": {
         "name": "Spaghetti Bolognese",
-        "link": "",
+        "link": "https://www.yummly.com/recipe/Spaghetti-Bolognese-1384903?prm-v1",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 3
+                "amount": 50,
+                "unit": "g",
+                "name": "pancetta (eller bacon)"
             },
             {
-                "name": "peas",
-                "amount": 3
+                "amount": 2,
+                "unit": "tbsp",
+                "name": "olive oil"
+            },
+            {
+                "amount": 1,
+                "unit": "stk",
+                "name": "onions"
+            },
+            {
+                "amount": 2,
+                "unit": "stk",
+                "name": "carrots"
+            },
+            {
+                "amount": 2,
+                "unit": "stilk",
+                "name": "selleri"
+            },
+            {
+                "amount": 3,
+                "unit": "fed",
+                "name": "hvidl\u00f8g"
+            },
+            {
+                "amount": 2,
+                "unit": "tsp",
+                "name": "t\u00f8rret basilikum"
+            },
+            {
+                "amount": 2,
+                "unit": "d\u00e5se",
+                "name": "hakket tomater"
+            },
+            {
+                "amount": 2,
+                "unit": "tsp",
+                "name": "t\u00f8rret oregano"
+            },
+            {
+                "amount": 1,
+                "unit": "lbs",
+                "name": "magert hakket oksek\u00f8d"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "peber"
+            },
+            {
+                "amount": 1,
+                "unit": "lb",
+                "name": "spaghetti"
             }
         ]
     },
@@ -58,27 +115,27 @@
         "ingredients": [
             {
                 "amount": 2,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "l\u00f8g"
             },
             {
                 "amount": 4,
-                "measurement": "fed",
+                "unit": "fed",
                 "name": "hvidl\u00f8g"
             },
             {
                 "amount": 300,
-                "measurement": "g",
+                "unit": "g",
                 "name": "kyllingefilet"
             },
             {
                 "amount": 20,
-                "measurement": "g",
+                "unit": "g",
                 "name": "ingef\u00e6r"
             },
             {
                 "amount": 2,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "panang paste"
             },
             {
@@ -87,17 +144,17 @@
             },
             {
                 "amount": 200,
-                "measurement": "g",
+                "unit": "g",
                 "name": "broccoli"
             },
             {
                 "amount": 100,
-                "measurement": "g",
+                "unit": "g",
                 "name": "edamameb\u00f8nner"
             },
             {
                 "amount": 1,
-                "measurement": "d\u00e5se",
+                "unit": "d\u00e5se",
                 "name": "kokosm\u00e6lk"
             },
             {
@@ -106,42 +163,42 @@
             },
             {
                 "amount": 1,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "peanutbutter"
             },
             {
                 "amount": 1,
-                "measurement": "tsk",
+                "unit": "tsk",
                 "name": "kokossukker"
             },
             {
                 "amount": 1,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "soja"
             },
             {
                 "amount": 1,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "lime"
             },
             {
                 "amount": 1,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "olivenolie"
             },
             {
                 "amount": 3,
-                "measurement": "dl",
+                "unit": "dl",
                 "name": "ris"
             },
             {
                 "amount": 1,
-                "measurement": "dl",
+                "unit": "dl",
                 "name": "saltede peanuts"
             },
             {
                 "amount": 1,
-                "measurement": "h\u00e5ndfuld",
+                "unit": "h\u00e5ndfuld",
                 "name": "frisk koriander"
             }
         ]
@@ -152,62 +209,62 @@
         "ingredients": [
             {
                 "amount": 4,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "r\u00f8dsp\u00e6tte"
             },
             {
                 "amount": 1,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "\u00e6g"
             },
             {
                 "amount": 2,
-                "measurement": "dl",
+                "unit": "dl",
                 "name": "rugmel"
             },
             {
                 "amount": 2,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "sm\u00f8r"
             },
             {
                 "amount": 2,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "hvedemel"
             },
             {
                 "amount": 5,
-                "measurement": "dl",
+                "unit": "dl",
                 "name": "m\u00e6lk"
             },
             {
                 "amount": 0.5,
-                "measurement": "50",
+                "unit": "50",
                 "name": "\u00f8ko citron"
             },
             {
                 "amount": 2,
-                "measurement": "h\u00e5ndfulde",
+                "unit": "h\u00e5ndfulde",
                 "name": "persille"
             },
             {
                 "amount": 0,
-                "measurement": "",
+                "unit": "",
                 "name": "salt"
             },
             {
                 "amount": 0,
-                "measurement": "",
+                "unit": "",
                 "name": "peber"
             },
             {
                 "amount": 1,
-                "measurement": "kg",
+                "unit": "kg",
                 "name": "kartoffel"
             },
             {
                 "amount": "",
-                "measurement": "",
+                "unit": "",
                 "name": "vand"
             }
         ]
@@ -218,57 +275,57 @@
         "ingredients": [
             {
                 "amount": 4,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "kyllingebryst"
             },
             {
                 "amount": 75,
-                "measurement": "g",
+                "unit": "g",
                 "name": "sm\u00f8r"
             },
             {
                 "amount": 1,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "frisk basilikum"
             },
             {
                 "amount": 1,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "frisk estragon"
             },
             {
                 "amount": 1,
-                "measurement": "fed",
+                "unit": "fed",
                 "name": "hvidl\u00f8g"
             },
             {
                 "amount": 2,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "hvedemel"
             },
             {
                 "amount": 1,
-                "measurement": "stk",
+                "unit": "stk",
                 "name": "\u00e6g"
             },
             {
                 "amount": 1,
-                "measurement": "dl",
+                "unit": "dl",
                 "name": "rasp"
             },
             {
                 "amount": 2,
-                "measurement": "spsk",
+                "unit": "spsk",
                 "name": "pankorasp"
             },
             {
                 "amount": 0,
-                "measurement": "",
+                "unit": "",
                 "name": "salt"
             },
             {
                 "amount": 0,
-                "measurement": " ",
+                "unit": " ",
                 "name": "peber"
             }
         ]
@@ -278,12 +335,44 @@
         "link": "https://www.valdemarsro.dk/pasta-aglio-e-olio/",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 1000
+                "amount": 400,
+                "unit": "g",
+                "name": "linguine"
             },
             {
-                "name": "peas",
-                "amount": 500
+                "amount": 4,
+                "unit": "fed",
+                "name": "hvidl\u00f8g"
+            },
+            {
+                "amount": 0.5,
+                "unit": "stk",
+                "name": "r\u00f8d chili"
+            },
+            {
+                "amount": 3,
+                "unit": "spsk",
+                "name": "olivenolie"
+            },
+            {
+                "amount": 50,
+                "unit": "g",
+                "name": "parmesan"
+            },
+            {
+                "amount": 1,
+                "unit": "tsk",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "sort peber"
+            },
+            {
+                "amount": 1,
+                "unit": "h\u00e5ndfuld",
+                "name": "bredbladet persille"
             }
         ]
     },
@@ -404,12 +493,49 @@
         "link": "https://www.valdemarsro.dk/pasta-med-svampe/",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 1000
+                "amount": 350,
+                "unit": "g",
+                "name": "pasta"
             },
             {
-                "name": "peas",
-                "amount": 500
+                "amount": 500,
+                "unit": "g",
+                "name": "svampe"
+            },
+            {
+                "amount": 1,
+                "unit": "stk",
+                "name": "l\u00f8g"
+            },
+            {
+                "amount": 1,
+                "unit": "dl",
+                "name": "piskefl\u00f8de"
+            },
+            {
+                "amount": 1,
+                "unit": "h\u00e5ndfuld",
+                "name": "persille"
+            },
+            {
+                "amount": 50,
+                "unit": "g",
+                "name": "parmesan"
+            },
+            {
+                "amount": 20,
+                "unit": "g",
+                "name": "sm\u00f8r"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "sort peber"
             }
         ]
     },
@@ -642,12 +768,54 @@
         "link": "https://madenimitliv.dk/2017/09/tortellini-fad-broccoli-mornaysauce/",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 1000
+                "amount": 500,
+                "unit": "g",
+                "name": "tortellini"
             },
             {
-                "name": "peas",
-                "amount": 500
+                "amount": 1,
+                "unit": "stk",
+                "name": "broccoli"
+            },
+            {
+                "amount": 250,
+                "unit": "g",
+                "name": "gr\u00f8nne \u00e6rter"
+            },
+            {
+                "amount": 30,
+                "unit": "g",
+                "name": "sm\u00f8r"
+            },
+            {
+                "amount": 3,
+                "unit": "spsk",
+                "name": "hvedemel"
+            },
+            {
+                "amount": 4,
+                "unit": "dl",
+                "name": "m\u00e6lk"
+            },
+            {
+                "amount": 75,
+                "unit": "g",
+                "name": "revet ost"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "st\u00f8dt muskatn\u00f8d"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "peber"
             }
         ]
     },
@@ -656,12 +824,34 @@
         "link": "https://madenimitliv.dk/2018/06/spansk-tortilla-med-kartofler/",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 1000
+                "amount": 600,
+                "unit": "g",
+                "name": "sm\u00e5 kartofler"
             },
             {
-                "name": "peas",
-                "amount": 500
+                "amount": 4,
+                "unit": "spsk",
+                "name": "olivenolie"
+            },
+            {
+                "amount": 1,
+                "unit": "stk",
+                "name": "l\u00f8g"
+            },
+            {
+                "amount": 6,
+                "unit": "stk",
+                "name": "\u00e6g"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "salt"
+            },
+            {
+                "amount": 0,
+                "unit": "",
+                "name": "peber"
             }
         ]
     },
@@ -670,12 +860,69 @@
         "link": "https://madenimitliv.dk/2022/09/kylling-cashew/",
         "ingredients": [
             {
-                "name": "chickenbreast",
-                "amount": 1000
+                "amount": 2,
+                "unit": "spsk",
+                "name": " olie"
             },
             {
-                "name": "peas",
-                "amount": 9000
+                "amount": 400,
+                "unit": "gram",
+                "name": "kyllingebryst"
+            },
+            {
+                "amount": 2,
+                "unit": "fed",
+                "name": "hvidl\u00f8g"
+            },
+            {
+                "amount": 2,
+                "unit": "stk",
+                "name": "r\u00f8dl\u00f8g"
+            },
+            {
+                "amount": 2,
+                "unit": "stk",
+                "name": "peberfrugt"
+            },
+            {
+                "amount": 1,
+                "unit": "bundt ",
+                "name": "for\u00e5rsl\u00f8g"
+            },
+            {
+                "amount": 50,
+                "unit": "gram",
+                "name": "saltede cashewn\u00f8dder"
+            },
+            {
+                "amount": 1,
+                "unit": "dl",
+                "name": "vand"
+            },
+            {
+                "amount": 3,
+                "unit": "spsk",
+                "name": " soja"
+            },
+            {
+                "amount": 1,
+                "unit": "spsk",
+                "name": " brun farin"
+            },
+            {
+                "amount": 1,
+                "unit": "spsk",
+                "name": " limesaft"
+            },
+            {
+                "amount": 0.5,
+                "unit": "tsk",
+                "name": "t\u00f8rrede chiliflager"
+            },
+            {
+                "amount": 1,
+                "unit": "tsk",
+                "name": "maizena"
             }
         ]
     }
