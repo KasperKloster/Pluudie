@@ -1,6 +1,4 @@
-gspread
-os
-firebase_admin
-random
-json
-pandas
+firebase==3.0.1
+firebase-admin==6.0.1
+gspread==5.6.2
+pandas==1.5.1

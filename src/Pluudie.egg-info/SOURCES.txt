@@ -3,6 +3,8 @@ src/main.py
 src/Pluudie.egg-info/PKG-INFO
 src/Pluudie.egg-info/SOURCES.txt
 src/Pluudie.egg-info/dependency_links.txt
+src/Pluudie.egg-info/entry_points.txt
+src/Pluudie.egg-info/requires.txt
 src/Pluudie.egg-info/top_level.txt
 src/database/__init__.py
 src/database/data/__init__.py

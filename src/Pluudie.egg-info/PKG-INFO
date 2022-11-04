@@ -2,3 +2,7 @@ Metadata-Version: 2.1
 Name: Pluudie
 Version: 0.0.1
 Summary: A tool for food
+Home-page: https://github.com/KasperKloster/Pluudie
+Author: Kasper Kloster
+Author-email: kasperkloster@gmail.com
+Requires-Python: >=3, <4

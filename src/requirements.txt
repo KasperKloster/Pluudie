@@ -1,6 +1,0 @@
-gspread
-os
-firebase_admin
-random
-json
-pandas

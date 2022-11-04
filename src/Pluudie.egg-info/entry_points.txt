@@ -1,0 +1,2 @@
+[console_scripts]
+p-cli = main:Main

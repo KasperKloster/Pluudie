@@ -6,7 +6,7 @@ from lib.google.sheets import GoogleSheets
 class Main:
   def __init__(self) -> None:         
     recipeFilePath = self.recipesData()    
-    self.firebase(recipeFilePath)
+    self.firebase(recipeFilePath)    
     lists = self.selectRecipes()
     self.saveInGoogleDrive(lists)
     
@@ -26,7 +26,8 @@ class Main:
     return [weekRecipes, shoppingList]
   
   def saveInGoogleDrive(self, lists):
-    GoogleSheets(lists)
+    pass
+    # GoogleSheets(lists)
 
 
 
