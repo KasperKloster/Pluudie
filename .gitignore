@@ -1,5 +1,7 @@
 features.txt
 
+/env/*
+
 /database/firebase/credentials/*
 /lib/google/credentials/*
 
