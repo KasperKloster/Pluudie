@@ -1,17 +1,17 @@
 import os, json
 import pandas as pd
 
-class Csv:   
-  def writeJsonRecipes(self) -> str:        
+class Write:   
+  def jsonRecipes(self) -> str:    
     filepath = os.getcwd() + '/src/files/recipes.csv'    
     df = pd.read_csv(filepath, sep=';')
-    # Set empty values (NaN)    
+    # # Set empty values (NaN)    
     df = df.fillna("")
-    # Cast to dict with index
+    # # Cast to dict with index
     recipes = df.to_dict(orient='index')
-    # Looping through ingredients
+    # # Looping through ingredients
     for recipe in recipes:
-      # Convert string to a list of dicts
+      # Convert string to a list of dicts      
       ingredients = json.loads(recipes[recipe]['ingredients'])
       # Set as value
       recipes[recipe]['ingredients'] = ingredients

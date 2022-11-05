@@ -1,35 +1,38 @@
-from lib.csv.Csv import Csv
+from database.data.write.Write import Write
 from database.firebase.Firebase import Firebase
 from lib.Recipe import Recipe
+from lib.ShoppingList import ShoppingList
 from lib.google.sheets import GoogleSheets
 
 class Main:
   def __init__(self) -> None:         
-    recipeFilePath = self.recipesData()    
+    recipeFilePath = self.writeData()    
     self.firebase(recipeFilePath)    
-    lists = self.selectRecipes()
-    self.saveInGoogleDrive(lists)
+    weekRecipes = self.selectRecipes()
+    shoppingList = self.shoppingList(weekRecipes)
+    self.saveInGoogleDrive(weekRecipes, shoppingList)
     
-  def recipesData(self) -> str:
-    csv = Csv()
-    recipeFilePath = csv.writeJsonRecipes()    
+  def writeData(self) -> str:
+    write = Write()
+    recipeFilePath = write.jsonRecipes()    
     return recipeFilePath
   
   def firebase(self, recipeFilePath:str):    
     firebase = Firebase()
     firebase.setRecipes(recipeFilePath)
   
-  def selectRecipes(self) -> list[list[dict]]:
+  def selectRecipes(self) -> list[dict]:
     recipes = Recipe()    
-    weekRecipes = recipes.getRandom()
-    shoppingList = recipes.createShoppinglist(weekRecipes)    
-    return [weekRecipes, shoppingList]
+    weekRecipes = recipes.getRandom()     
+    return weekRecipes
   
-  def saveInGoogleDrive(self, lists):
-    pass
-    # GoogleSheets(lists)
-
-
+  def shoppingList(self, weekRecipes) -> list[dict]:
+    sList = ShoppingList()    
+    shoppingList = sList.createShoppinglist(weekRecipes)   
+    return shoppingList
+  
+  def saveInGoogleDrive(self, weekRecipes, shoppingList):    
+    GoogleSheets(weekRecipes, shoppingList)
 
 if __name__ == '__main__':
   Main()

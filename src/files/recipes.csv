@@ -1,54 +1,4 @@
 "name";"link";"ingredients"
-"Chili Con Carne";;"[{""amount"" :2, ""unit"": ""stk"", ""name"": ""løg""}]"
-"Chili Sin Carne";;"[{""name"": ""chickenbreast"", ""amount"": 2},  {""name"": ""peas"", ""amount"": 2}]"
-"Spaghetti Bolognese";"https://www.yummly.com/recipe/Spaghetti-Bolognese-1384903?prm-v1";"[{""amount"" : 50, ""unit"" : ""g"", ""name"" : ""pancetta (eller bacon)""},
-{""amount"" : 2, ""unit"" : ""tbsp"", ""name"" : ""olive oil""},
-{""amount"" : 1, ""unit"" : ""stk"", ""name"" : ""onions""},
-{""amount"" : 2, ""unit"" : ""stk"", ""name"" : ""carrots""},
-{""amount"" : 2, ""unit"" : ""stilk"", ""name"" : ""selleri""},
-{""amount"" : 3, ""unit"" : ""fed"", ""name"" : ""hvidløg""},
-{""amount"" : 2, ""unit"" : ""tsp"", ""name"" : ""tørret basilikum""},
-{""amount"" : 2, ""unit"" : ""dåse"", ""name"" : ""hakket tomater""},
-{""amount"" : 2, ""unit"" : ""tsp"", ""name"" : ""tørret oregano""},
-{""amount"" : 1, ""unit"" : ""lbs"", ""name"" : ""magert hakket oksekød""},
-{""amount"" : 0, ""unit"" : """", ""name"" : ""salt""},
-{""amount"" : 0, ""unit"" : """", ""name"" : ""peber""},
-{""amount"" : 1, ""unit"" : ""lb"", ""name"" : ""spaghetti""}]"
-"Kartoffel Og Brocolli Suppe";;"[{""name"": ""chickenbreast"", ""amount"": 4},  {""name"": ""peas"", ""amount"": 4}]"
-"Chicken Penang";"https://www.valdemarsro.dk/panang-karry-med-kylling/";"[
-{""amount"" :2, ""unit"": ""stk"", ""name"": ""løg""},
-{""amount"" :4, ""unit"": ""fed"", ""name"": ""hvidløg""},
-{""amount"" :300, ""unit"": ""g"", ""name"": ""kyllingefilet""},
-{""amount"" :20, ""unit"": ""g"", ""name"": ""ingefær""},
-{""amount"" :2, ""unit"": ""spsk"", ""name"": ""panang paste""},
-{""amount"" :3, ""name"": ""gulerod""},
-{""amount"" :200, ""unit"": ""g"", ""name"": ""broccoli""},
-{""amount"" :100, ""unit"": ""g"", ""name"": ""edamamebønner""},
-{""amount"" :1, ""unit"": ""dåse"", ""name"": ""kokosmælk""},
-{""amount"" :2, ""name"": ""gul peberfrugt""},
-{""amount"" :1, ""unit"": ""spsk"", ""name"": ""peanutbutter""},
-{""amount"" :1, ""unit"": ""tsk"", ""name"": ""kokossukker""},
-{""amount"" :1, ""unit"": ""spsk"", ""name"": ""soja""},
-{""amount"" :1, ""unit"": ""stk"", ""name"": ""lime""},
-{""amount"" :1, ""unit"": ""spsk"", ""name"": ""olivenolie""},
-{""amount"" :3, ""unit"": ""dl"", ""name"": ""ris""},
-{""amount"" :1, ""unit"": ""dl"", ""name"": ""saltede peanuts""},
-{""amount"" :1, ""unit"": ""håndfuld"", ""name"": ""frisk koriander""}
-]"
-"Stegt Rødspætte Med Persillesauce";"https://www.valdemarsro.dk/stegt-roedspaette/";"[
-{""amount"": 4, ""unit"" : ""stk"", ""name"": ""rødspætte""},
-{""amount"": 1, ""unit"" : ""stk"", ""name"": ""æg""},
-{""amount"": 2, ""unit"" : ""dl"", ""name"": ""rugmel""},
-{""amount"": 2, ""unit"" : ""spsk"", ""name"": ""smør""},
-{""amount"": 2, ""unit"" : ""spsk"", ""name"": ""hvedemel""},
-{""amount"": 5, ""unit"" : ""dl"", ""name"": ""mælk""},
-{""amount"": 0.50 ,""unit"" : ""50"", ""name"": ""øko citron""},
-{""amount"": 2, ""unit"" : ""håndfulde"", ""name"": ""persille""},
-{""amount"": 0, ""unit"" : """", ""name"": ""salt""},
-{""amount"": 0, ""unit"" : """", ""name"": ""peber""},
-{""amount"": 1, ""unit"" : ""kg"", ""name"": ""kartoffel""},
-{""amount"": """", ""unit"" : """", ""name"": ""vand""}
-]"
 "Kylling Kiev";"https://www.valdemarsro.dk/kylling-kiev/";"[
 {""amount"" :4 , ""unit"" : ""stk"", ""name"": ""kyllingebryst""},
 {""amount"" :75, ""unit"" : ""g"", ""name"": ""smør""},
@@ -62,6 +12,20 @@
 {""amount"" : 0, ""unit"" : """", ""name"": ""salt""},
 {""amount"" : 0, ""unit"" : "" "", ""name"": ""peber""}
 ]"
+"Stegt Rødspætte Med Persillesauce";"https://www.valdemarsro.dk/stegt-roedspaette/";"[
+{""amount"": 4, ""unit"" : ""stk"", ""name"": ""rødspætte""},
+{""amount"": 1, ""unit"" : ""stk"", ""name"": ""æg""},
+{""amount"": 2, ""unit"" : ""dl"", ""name"": ""rugmel""},
+{""amount"": 2, ""unit"" : ""spsk"", ""name"": ""smør""},
+{""amount"": 2, ""unit"" : ""spsk"", ""name"": ""hvedemel""},
+{""amount"": 5, ""unit"" : ""dl"", ""name"": ""mælk""},
+{""amount"": 0.50 ,""unit"" : ""50"", ""name"": ""øko citron""},
+{""amount"": 2, ""unit"" : ""håndfulde"", ""name"": ""persille""},
+{""amount"": 0, ""unit"" : """", ""name"": ""salt""},
+{""amount"": 0, ""unit"" : """", ""name"": ""peber""},
+{""amount"": 1, ""unit"" : ""kg"", ""name"": ""kartoffel""},
+{""amount"": 0, ""unit"" : """", ""name"": ""vand""}
+]"
 "Pasta Aglio E Olio";"https://www.valdemarsro.dk/pasta-aglio-e-olio/";"[{ ""amount"" : 400, ""unit"" : ""g"", ""name"": ""linguine""},
 { ""amount"" : 4, ""unit"" : ""fed"", ""name"": ""hvidløg""},
 { ""amount"" : 0.5, ""unit"" : ""stk"", ""name"": ""rød chili""},
@@ -70,14 +34,19 @@
 { ""amount"" : 1, ""unit"" : ""tsk"", ""name"": ""salt""},
 { ""amount"" : 0, ""unit"" : """", ""name"": ""sort peber""},
 { ""amount"" : 1, ""unit"" : ""håndfuld"", ""name"": ""bredbladet persille""}]"
-"Vegetar Panang Karry Med Kikærter Og Grøntsager";"https://www.valdemarsro.dk/vegetar-panang-karry/";"[{""name"": ""monkey"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Pasta Med Rejer Og Hvidløg";"https://www.valdemarsro.dk/pasta-med-rejer-og-hvidloeg/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Porretærte";"https://www.valdemarsro.dk/porretaerte/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Grøntsagswok Med Cashew Og Kokosnudler";"https://www.valdemarsro.dk/groentsagswok/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Teriyaki Kylling Med Ris Og Grøntsage";"https://www.valdemarsro.dk/teriyaki-kylling/";"[{""name"": ""kylling"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Pasta Arrabiata";"https://www.valdemarsro.dk/pasta-arrabiata/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Vegetar Bolognese";"https://www.valdemarsro.dk/vegetar-bolognese/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Saftige Kyllingedeller I Spidskålswraps";"https://www.valdemarsro.dk/kyllingedeller-spidskaalswraps/";"[{""name"": ""beef"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
+"Kylling Med Cashew";"https://madenimitliv.dk/2022/09/kylling-cashew/";"[{""amount"" : 2 , ""unit"" : ""spsk"", ""name"": "" olie""},
+{""amount"" : 400 , ""unit"" : ""gram"", ""name"": ""kyllingebryst""},
+{""amount"" : 2 , ""unit"" : ""fed"", ""name"": ""hvidløg""},
+{""amount"" : 2 , ""unit"" : ""stk"", ""name"": ""rødløg""},
+{""amount"" : 2 , ""unit"" : ""stk"", ""name"": ""peberfrugt""},
+{""amount"" : 1 , ""unit"" : ""bundt "", ""name"": ""forårsløg""},
+{""amount"" : 50, ""unit"" : ""gram"", ""name"": ""saltede cashewnødder""},
+{""amount"" : 1 , ""unit"" : ""dl"", ""name"": ""vand""},
+{""amount"" : 3 , ""unit"" : ""spsk"", ""name"": "" soja""},
+{""amount"" : 1 , ""unit"" : ""spsk"", ""name"": "" brun farin""},
+{""amount"" : 1 , ""unit"" : ""spsk"", ""name"": "" limesaft""},
+{""amount"" : 0.5 , ""unit"" : ""tsk"", ""name"": ""tørrede chiliflager""},
+{""amount"" : 1 , ""unit"" : ""tsk"", ""name"": ""maizena""}]"
 "Pasta Med Svampe";"https://www.valdemarsro.dk/pasta-med-svampe/";"[{""amount"" : 350, ""unit"" : ""g"", ""name"" : ""pasta""},
 {""amount"" : 500, ""unit"" : ""g"", ""name"" : ""svampe""},
 {""amount"" : 1, ""unit"" : ""stk"", ""name"" : ""løg""},
@@ -87,22 +56,19 @@
 {""amount"" : 20, ""unit"" :  ""g"",  ""name"" : ""smør""},
 {""amount"" : 0, ""unit"" : """", ""name"" : ""salt""},
 {""amount"" : 0, ""unit"" : """",  ""name"" : ""sort peber""}]"
-"Ærtesuppe";"https://www.valdemarsro.dk/aertesuppe/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Fiskefrikadeller Med Remoulade Og Råkostsalat";"https://www.valdemarsro.dk/fiskefrikadeller/";"[{""name"": ""pineapple"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Risotto Med Svampe";"https://www.valdemarsro.dk/risotto-med-svampe/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Hjemmelavede Burgere";"https://www.valdemarsro.dk/hjemmelavede-burgere/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Lasagne";"https://www.valdemarsro.dk/lasagne/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Laks I Ovn";"https://www.arla.dk/opskrifter/laks-i-ovn/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Æggekage";"https://www.arla.dk/opskrifter/aggekage/";"[{""name"": ""kylling"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Tortellini Med Bacon Og Svampe";"https://madenimitliv.dk/2018/11/tortellini-med-bacon-og-svampe/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Pastasalat Med Avocadocreme";"https://madenimitliv.dk/2017/08/pastasalat-avocadocreme/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Pasta I Fad Med Kylling Og Broccoli";"https://madenimitliv.dk/2016/10/pasta-fad-kylling-broccoli/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Spinatpandekager Med Skinke Og Ost";"https://madenimitliv.dk/2014/04/spinatpandekager-med-skinke-og-ost-2/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Broccolitærte Med Bacon";"https://madenimitliv.dk/2013/10/den-nemmeste-broccolitaerte-med-bacon/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Cremet Kartoffelfad Med Ost Og Forårsløg";"https://madenimitliv.dk/2016/05/cremet-kartoffelfad-ost-foraarsloeg/";"[{""name"": ""cheese"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Spinatlasagne Med Bechamel";"https://madenimitliv.dk/2016/06/spinatlasagne-bechamelsauce/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Dhal Med Linser, Kartofler Og Blomkål";"https://madenimitliv.dk/2016/10/dhal-linser-kartofler-blomkaal/";"[{""name"": ""chickenbreast"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
-"Kylling Med Timian Og Citron I Stegeso";"https://madenimitliv.dk/2017/03/kylling-timian-citron-stegeso/";"[{""name"": ""potatos"", ""amount"": 1000},  {""name"": ""peas"", ""amount"": 500}]"
+"Spaghetti Bolognese";"https://www.yummly.com/recipe/Spaghetti-Bolognese-1384903?prm-v1";"[{""amount"" : 50, ""unit"" : ""g"", ""name"" : ""pancetta (eller bacon)""},
+{""amount"" : 2, ""unit"" : ""tbsp"", ""name"" : ""olive oil""},
+{""amount"" : 1, ""unit"" : ""stk"", ""name"" : ""onions""},
+{""amount"" : 2, ""unit"" : ""stk"", ""name"" : ""carrots""},
+{""amount"" : 2, ""unit"" : ""stilk"", ""name"" : ""selleri""},
+{""amount"" : 3, ""unit"" : ""fed"", ""name"" : ""hvidløg""},
+{""amount"" : 2, ""unit"" : ""tsp"", ""name"" : ""tørret basilikum""},
+{""amount"" : 2, ""unit"" : ""dåse"", ""name"" : ""hakket tomater""},
+{""amount"" : 2, ""unit"" : ""tsp"", ""name"" : ""tørret oregano""},
+{""amount"" : 1, ""unit"" : ""lbs"", ""name"" : ""magert hakket oksekød""},
+{""amount"" : 0, ""unit"" : """", ""name"" : ""salt""},
+{""amount"" : 0, ""unit"" : """", ""name"" : ""peber""},
+{""amount"" : 1, ""unit"" : ""lb"", ""name"" : ""spaghetti""}]"
 "Tortellini I Fad Med Broccoli";"https://madenimitliv.dk/2017/09/tortellini-fad-broccoli-mornaysauce/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""tortellini""},
 {""amount"" : 1, ""unit"" : ""stk"", ""name"" : ""broccoli""},
 {""amount"" : 250, ""unit"" : ""g"", ""name"" : ""grønne ærter""},
@@ -119,16 +85,31 @@
 {""amount"" : 6,  ""unit"" : ""stk"", ""name"" : ""æg""},
 {""amount"" : 0, ""unit"" : """", ""name"" : ""salt""},
 {""amount"" : 0, ""unit"" : """", ""name"" : ""peber""}]"
-"Kylling Med Cashew";"https://madenimitliv.dk/2022/09/kylling-cashew/";"[{""amount"" : 2 , ""unit"" : ""spsk"", ""name"": "" olie""},
-{""amount"" : 400 , ""unit"" : ""gram"", ""name"": ""kyllingebryst""},
-{""amount"" : 2 , ""unit"" : ""fed"", ""name"": ""hvidløg""},
-{""amount"" : 2 , ""unit"" : ""stk"", ""name"": ""rødløg""},
-{""amount"" : 2 , ""unit"" : ""stk"", ""name"": ""peberfrugt""},
-{""amount"" : 1 , ""unit"" : ""bundt "", ""name"": ""forårsløg""},
-{""amount"" : 50, ""unit"" : ""gram"", ""name"": ""saltede cashewnødder""},
-{""amount"" : 1 , ""unit"" : ""dl"", ""name"": ""vand""},
-{""amount"" : 3 , ""unit"" : ""spsk"", ""name"": "" soja""},
-{""amount"" : 1 , ""unit"" : ""spsk"", ""name"": "" brun farin""},
-{""amount"" : 1 , ""unit"" : ""spsk"", ""name"": "" limesaft""},
-{""amount"" : 0.5 , ""unit"" : ""tsk"", ""name"": ""tørrede chiliflager""},
-{""amount"" : 1 , ""unit"" : ""tsk"", ""name"": ""maizena""}]"
+"Chili Con Carne";;"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Chili Sin Carne";;"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Kartoffel Og Brocolli Suppe";;"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Kartoffel Og Brocolli Suppe";;"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Vegetar Panang Karry Med Kikærter Og Grøntsager";"https://www.valdemarsro.dk/vegetar-panang-karry/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Pasta Med Rejer Og Hvidløg";"https://www.valdemarsro.dk/pasta-med-rejer-og-hvidloeg/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Porretærte";"https://www.valdemarsro.dk/porretaerte/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Grøntsagswok Med Cashew Og Kokosnudler";"https://www.valdemarsro.dk/groentsagswok/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Teriyaki Kylling Med Ris Og Grøntsage";"https://www.valdemarsro.dk/teriyaki-kylling/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Pasta Arrabiata";"https://www.valdemarsro.dk/pasta-arrabiata/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Vegetar Bolognese";"https://www.valdemarsro.dk/vegetar-bolognese/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Saftige Kyllingedeller I Spidskålswraps";"https://www.valdemarsro.dk/kyllingedeller-spidskaalswraps/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Ærtesuppe";"https://www.valdemarsro.dk/aertesuppe/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Fiskefrikadeller Med Remoulade Og Råkostsalat";"https://www.valdemarsro.dk/fiskefrikadeller/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Risotto Med Svampe";"https://www.valdemarsro.dk/risotto-med-svampe/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Hjemmelavede Burgere";"https://www.valdemarsro.dk/hjemmelavede-burgere/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Lasagne";"https://www.valdemarsro.dk/lasagne/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Laks I Ovn";"https://www.arla.dk/opskrifter/laks-i-ovn/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Æggekage";"https://www.arla.dk/opskrifter/aggekage/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Tortellini Med Bacon Og Svampe";"https://madenimitliv.dk/2018/11/tortellini-med-bacon-og-svampe/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Pastasalat Med Avocadocreme";"https://madenimitliv.dk/2017/08/pastasalat-avocadocreme/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Pasta I Fad Med Kylling Og Broccoli";"https://madenimitliv.dk/2016/10/pasta-fad-kylling-broccoli/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Spinatpandekager Med Skinke Og Ost";"https://madenimitliv.dk/2014/04/spinatpandekager-med-skinke-og-ost-2/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Broccolitærte Med Bacon";"https://madenimitliv.dk/2013/10/den-nemmeste-broccolitaerte-med-bacon/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Cremet Kartoffelfad Med Ost Og Forårsløg";"https://madenimitliv.dk/2016/05/cremet-kartoffelfad-ost-foraarsloeg/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Spinatlasagne Med Bechamel";"https://madenimitliv.dk/2016/06/spinatlasagne-bechamelsauce/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Dhal Med Linser, Kartofler Og Blomkål";"https://madenimitliv.dk/2016/10/dhal-linser-kartofler-blomkaal/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"
+"Kylling Med Timian Og Citron I Stegeso";"https://madenimitliv.dk/2017/03/kylling-timian-citron-stegeso/";"[{""amount"" : 500, ""unit"" : ""g"", ""name"" : ""chicken""}]"

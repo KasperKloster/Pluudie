@@ -1,34 +1,76 @@
 {
-  "mg": {
-    "name": "milligram",
-    "abbr": "mg",
-
-    "dk": [
-      {
+  "units": [
+    {
+      "mg": {
         "name": "milligram",
-        "abbr": "mg"
-      }
-    ]
-  },
-  "g": {
-    "name": "gram",
-    "abbr": "g",
-    "dk": [
-      {
+        "abbr": "mg",
+        "dk": [
+          {
+            "name": "milligram",
+            "abbr": "mg"
+          }
+        ]
+      },
+      "g": {
         "name": "gram",
-        "abbr": "g"
-      }
-    ]
-  },
-  "kg": {
-    "name": "kilo",
-    "abbr": "kg", 
-
-    "dk": [
-      {
+        "abbr": "g",
+        "dk": [
+          {
+            "name": "gram",
+            "abbr": "g"
+          }
+        ]
+      },
+      "kg": {
         "name": "kilo",
-        "abbr": "kg"
+        "abbr": "kg",
+        "dk": [
+          {
+            "name": "kilo",
+            "abbr": "kg"
+          }
+        ]
+      },
+      "ml": {
+        "name": "milliliter",
+        "abbr": "ml",
+        "dk": [
+          {
+            "name": "milliliter",
+            "abbr": "ml"
+          }
+        ]
+      },
+      "cl": {
+        "name": "centiliter",
+        "abbr": "cl",
+        "dk": [
+          {
+            "name": "centiliter",
+            "abbr": "cl"
+          }
+        ]
+      },
+      "dl": {
+        "name": "deciliter",
+        "abbr": "dl",
+        "dk": [
+          {
+            "name": "deciliter",
+            "abbr": "dl"
+          }
+        ]
+      },
+      "l": {
+        "name": "liter",
+        "abbr": "l",
+        "dk": [
+          {
+            "name": "liter",
+            "abbr": "l"
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }
