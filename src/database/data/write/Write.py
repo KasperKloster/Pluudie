@@ -2,7 +2,7 @@ import os, json
 import pandas as pd
 
 class Write:   
-  def jsonRecipes(self) -> str:    
+  def recipes(self) -> str:    
     filepath = os.getcwd() + '/src/files/recipes.csv'    
     df = pd.read_csv(filepath, sep=';')
     # # Set empty values (NaN)    

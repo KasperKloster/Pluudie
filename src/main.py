@@ -14,12 +14,13 @@ class Main:
     
   def writeData(self) -> str:
     write = Write()
-    recipeFilePath = write.jsonRecipes()    
+    recipeFilePath = write.recipes()    
     return recipeFilePath
   
   def firebase(self, recipeFilePath:str):    
     firebase = Firebase()
     firebase.setRecipes(recipeFilePath)
+    firebase.setUnits()
   
   def selectRecipes(self) -> list[dict]:
     recipes = Recipe()    

@@ -24,5 +24,12 @@ class Firebase:
       json_object = json.load(openfile)
     # Set in the database
     ref.set(json_object)
-
+  
+  def setUnits(self):
+    ref = db.reference('units')
+    with open(os.getcwd() + '/src/database/data/units.json', 'r') as openfile:
+      # Reading from json file
+      json_object = json.load(openfile)
+    # Set in the database
+    ref.set(json_object)
 
